@@ -40,7 +40,6 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <img align="left" alt="Bootstrap" width="30px" style="padding-bottom:10px;padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
 <img align="left" alt="npm" width="30px" style="padding-bottom:10px;padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 <img align="left" alt="yarn" width="30px" style="padding-bottom:10px;padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" />
-<img align="left" alt="Gradle" width="30px" style="padding-bottom:10px;padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-bottom:10px;padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br/>
 <br/>
